@@ -30,7 +30,7 @@ root = Tk()
 root.geometry("475x190")
 root.minsize(475, 190)
 root.maxsize(475, 190)
-#root.iconbitmap("/media/vedant/Mass Data Storag/Youtube Downloader/icon.ico")
+root.iconbitmap('icon.ico')
 root.title("Youtube Video Downloader")
 
 # Lables and texts.
